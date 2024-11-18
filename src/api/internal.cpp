@@ -1,0 +1,1 @@
+static std::atomic<int> t2d_nprograms = 0;
